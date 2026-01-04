@@ -3,4 +3,5 @@ under develpment
 projects backend setup
 1.error handling is done
 2.database setup is done
-3.taking decisions on which model is best for the chat app
+3.error handling is reviewed
+4.auth api and cookie setup is to be done
