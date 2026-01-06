@@ -7,4 +7,4 @@ projects backend setup
 4.auth api and cookie setup is almost done and samll tests and changes are required
 there are errors in authentication and review should be done 
 small changes in password.config.ts file should be done...
-
+Almost lost my files but are retrived
