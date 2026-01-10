@@ -6,4 +6,4 @@ projects backend setup
 3.error handling is reviewed
 4.auth api and cookie setup is done
 i tested auth api for register,login,logout
-results are good
+5.users and chat Api should be done
