@@ -7,4 +7,5 @@ projects backend setup
 4.auth api and cookie setup is done
 i tested auth api for register,login,logout
 5.users and chat Api are done and to be tested
-there is a small issue in message.service.ts file regarding _id?
+resolved the issue and the code is good and the tests i done are create chat,get allvhats,get singlechat,send message 
+all are good
