@@ -9,4 +9,4 @@ i tested auth api for register,login,logout
 5.users and chat Api are done and to be tested
 resolved the issue and the code is good and the tests i done are create chat,get allvhats,get singlechat,send message 
 all are good
-6.websockets setup should be done
+6.websockets setup is started
