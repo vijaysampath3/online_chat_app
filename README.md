@@ -11,4 +11,4 @@ resolved the issue and the code is good and the tests i done are create chat,get
 all are good
 6.websockets setup is completed for backend
 for client side it will be done tommorrow
-
+i have done the client side setup and all dependencies are installed 
