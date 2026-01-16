@@ -13,3 +13,4 @@ all are good
 for client side it will be done tommorrow
 i have done the client side setup and all dependencies are installed 
 there are many errors in the code and this day covered full in those errors
+reviewed the api and reduced errors using postman
