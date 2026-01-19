@@ -12,5 +12,6 @@ all are good
 6.websockets setup is completed for backend
 for client side it will be done tommorrow
 i have done the client side setup and all dependencies are installed 
-all errors are reduced and now the next steps will be build
 i have choosen green colour for the website
+i stopped on hooks file and to be continued tomorrow
+
