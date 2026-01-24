@@ -13,5 +13,5 @@ all are good
 for client side it will be done tommorrow
 i have done the client side setup and all dependencies are installed 
 i have choosen green colour for the website
-stooped on use-sockets and continued from here
+stooped on use-sockets 
 
