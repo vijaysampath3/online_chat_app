@@ -15,3 +15,4 @@ i have done the client side setup and all dependencies are installed
 i have choosen green colour for the website
 stooped on use-sockets 
 again small bugs in code :( 
+i will take a break and continue 
